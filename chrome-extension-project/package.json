@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-project",
+  "version": "1.0.0",
+  "description": "A Chrome extension project.",
+  "main": "src/background.js",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "test": "echo 'Running tests...'",
+    "start": "echo 'Starting the extension...'"
+  },
+  "keywords": [
+    "chrome",
+    "extension"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
