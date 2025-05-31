@@ -1,3 +1,5 @@
+console.log('Sidepanel script loaded');
+
 document.addEventListener('DOMContentLoaded', () => {
     chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
         const status = document.getElementById('status');

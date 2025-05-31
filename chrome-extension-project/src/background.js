@@ -8,4 +8,6 @@ chrome.runtime.onStartup.addListener(() => {
     console.log('Extension started');
 });
 
+
+
 // Add more event listeners and background logic as needed.
